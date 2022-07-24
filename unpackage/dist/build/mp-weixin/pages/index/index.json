@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "黑马商城",
+  "usingComponents": {
+    "swiper-list": "/component/swiper",
+    "fontnav": "/component/fontnav",
+    "goods": "/component/goods"
+  }
+}
